@@ -1,0 +1,123 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "items": [
+        {
+          "id": "cat",
+          "name": "Cat",
+          "keywords": ["cat", "kitten", "kitty", "feline"],
+          "finalImageUrl": "/assets/cat/final.jpg",
+          "steps": [
+            {
+              "instruction": "Draw a circle for the cat's head",
+              "imageUrl": "/assets/cat/step1.jpg"
+            },
+            {
+              "instruction": "Add two triangles on top for the ears",
+              "imageUrl": "/assets/cat/step2.jpg"
+            },
+            {
+              "instruction": "Draw two small circles for the eyes",
+              "imageUrl": "/assets/cat/step3.jpg"
+            },
+            {
+              "instruction": "Add a small triangle for the nose and curved lines for the mouth",
+              "imageUrl": "/assets/cat/step4.jpg"
+            },
+            {
+              "instruction": "Draw whiskers and color your cat!",
+              "imageUrl": "/assets/cat/step5.jpg"
+            }
+          ]
+        },
+        {
+          "id": "dog",
+          "name": "Dog",
+          "keywords": ["dog", "puppy", "canine"],
+          "finalImageUrl": "/assets/dog/final.jpg",
+          "steps": [
+            {
+              "instruction": "Draw a circle for the dog's head",
+              "imageUrl": "/assets/dog/step1.jpg"
+            },
+            {
+              "instruction": "Add two floppy ears on the sides",
+              "imageUrl": "/assets/dog/step2.jpg"
+            },
+            {
+              "instruction": "Draw two circles for the eyes",
+              "imageUrl": "/assets/dog/step3.jpg"
+            },
+            {
+              "instruction": "Add a round nose and a smiling mouth",
+              "imageUrl": "/assets/dog/step4.jpg"
+            },
+            {
+              "instruction": "Draw a body and legs, then color your dog!",
+              "imageUrl": "/assets/dog/step5.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "objects",
+      "name": "Objects",
+      "items": [
+        {
+          "id": "house",
+          "name": "House",
+          "keywords": ["house", "home", "building"],
+          "finalImageUrl": "/assets/house/final.jpg",
+          "steps": [
+            {
+              "instruction": "Draw a square for the main part of the house",
+              "imageUrl": "/assets/house/step1.jpg"
+            },
+            {
+              "instruction": "Add a triangle on top for the roof",
+              "imageUrl": "/assets/house/step2.jpg"
+            },
+            {
+              "instruction": "Draw a rectangle for the door",
+              "imageUrl": "/assets/house/step3.jpg"
+            },
+            {
+              "instruction": "Add squares for windows",
+              "imageUrl": "/assets/house/step4.jpg"
+            },
+            {
+              "instruction": "Color your house with your favorite colors!",
+              "imageUrl": "/assets/house/step5.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "default": {
+    "id": "default",
+    "name": "Simple Drawing",
+    "finalImageUrl": "/assets/default/final.jpg",
+    "steps": [
+      {
+        "instruction": "Draw a big circle",
+        "imageUrl": "/assets/default/step1.jpg"
+      },
+      {
+        "instruction": "Add some shapes inside",
+        "imageUrl": "/assets/default/step2.jpg"
+      },
+      {
+        "instruction": "Draw details to make it special",
+        "imageUrl": "/assets/default/step3.jpg"
+      },
+      {
+        "instruction": "Color your drawing with your favorite colors!",
+        "imageUrl": "/assets/default/step4.jpg"
+      }
+    ]
+  }
+}

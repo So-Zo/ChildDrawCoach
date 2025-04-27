@@ -1,0 +1,39 @@
+{
+  "drawings": [
+    [
+      1,
+      {
+        "userId": null,
+        "prompt": "rainbow dog",
+        "inputType": "text",
+        "inputImageUrl": null,
+        "outputImageUrl": "/assets/dog/final.jpg",
+        "steps": [
+          {
+            "instruction": "Draw a circle for the dog's head",
+            "imageUrl": "/assets/dog/step1.jpg"
+          },
+          {
+            "instruction": "Add two floppy ears on the sides",
+            "imageUrl": "/assets/dog/step2.jpg"
+          },
+          {
+            "instruction": "Draw two circles for the eyes",
+            "imageUrl": "/assets/dog/step3.jpg"
+          },
+          {
+            "instruction": "Add a round nose and a smiling mouth",
+            "imageUrl": "/assets/dog/step4.jpg"
+          },
+          {
+            "instruction": "Draw a body and legs, then color your dog!",
+            "imageUrl": "/assets/dog/step5.jpg"
+          }
+        ],
+        "id": 1,
+        "createdAt": "2025-04-27T23:11:42.687Z"
+      }
+    ]
+  ],
+  "nextId": 2
+}
