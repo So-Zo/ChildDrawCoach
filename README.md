@@ -1,3 +1,14 @@
+# Notice & Project Philosophy
+
+**Disclaimer:** I am not the original author of this codebase. The initial version of this project was created on Replit and has since been adapted here. 
+
+You are encouraged to fork or use this project as you wish. There are currently no contribution standards, as none of the projects like this on my GitHub are my active focus right now. It may take some time before I revisit each project and bring them to a point where I would consider them ready for open source contributions. These repositories are primarily meant to demonstrate ideas I have, the front ends I think suit them, and my ability to think beyond just the technical implementation.
+
+**About this project:**
+This project is intended to use AI (with specific boundaries yet to be defined) to transform a child's drawing into something unique and inspired solely by what the child can see and draw. The goal is to create ways to teach and inspire children to draw more and improve, without the constraints of predetermined coloring or drawing books.
+
+---
+
 # Child Draw Coach
 
 A simplified drawing tutorial application for children, designed to provide step-by-step drawing guides.
